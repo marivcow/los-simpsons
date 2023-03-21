@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.p1{
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+.hr1{
+    color: white;
+}
+
+.p2{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+
+}
+
+.p3{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.p4{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.p5{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
